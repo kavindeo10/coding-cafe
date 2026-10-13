@@ -7,3 +7,8 @@
 7. It says 7 files changes, 144 insertions(+)
 8. cd75865, its a a unique identifier for this commit.
 9. 4 steps are- 1: create a new file in directory. 2: use git add to add a commit. 3: use git commit. 4: use git status to check result.
+10. It gets a special name because GitHub automatically recognises it and displayes its content.
+11. gh auth login authenticated me with GitHub and saved an authentication token on my computer.
+12. README is showing, GitHub automatically detects a file named README.md in the repository's root folder and displays its contents on the repository's main page
+13. It did not change
+14. A private repository means that no one except the people I choose and myself can view/edit it, while not existing means no one in the world can view or edit it since it doesnt exist.
