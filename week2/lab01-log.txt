@@ -1,0 +1,124 @@
+    1  wsl
+    2  cd
+    3  pwd
+    4  ls
+    5  ls] -a
+    6  ls -a
+    7  ls -1
+    8  ls -l
+    9  cd Desktop/
+   10  clera
+   11  clear
+   12  pwd
+   13  ls -Force
+   14  cd
+   15  ls
+   16  pwd
+   17  cd /mnt/c/Users/asus/Desktop
+   18  cd
+   19  ls -a
+   20  ls -l
+   21  mkdir Coding cafe
+   22  /mnt/c/Users/Asus/Desktop$ cd
+   23  cd /mnt/c/Users/Asus/Desktop
+   24  mkdir coding-cafe
+   25  ls
+   26  ls -a
+   27  ls -l
+   28  cd Coding cafe
+   29  pwd
+   30  cd /mnt/c/Users/Asus/Desktop
+   31  cd Coding cafe
+   32  pwd
+   33  cd coding-cafe
+   34  cd Coding cafe
+   35  cd Coding-cafe
+   36  cd
+   37  cd Desktop/
+   38  cs Desktop\
+   39  cd Desktop/
+   40  cd ~Desktop/
+   41  ln -s /mnt/c/Users/Asus/Desktop ~/Desktop
+   42  pwd
+   43  cd /mnt/c/Users/Asus/Desktop
+   44  cd
+   45  cd /Desktop
+   46  cd /mnt/c/Users/Asus/Desktop
+   47  cd Coding-cafe/
+   48  cd ..
+   49  cd Coding-cafe/
+   50  mkdir Coding-cafe/week1
+   51  cd ..
+   52  mkdir Coding-cafe/week1
+   53  mkdir week2
+   54  ls
+   55  cd Coding-cafe/
+   56  mkdir week2
+   57  ls
+   58  cd week2
+   59  touch notes.md
+   60  ls
+   61  cd Computational thinking
+   62  pwd
+   63  wls
+   64  ls
+   65  cd
+   66  pwd
+   67  cd Desktop
+   68  clear
+   69  ls
+   70  ls -a
+   71  ls -l
+   72  cd Coding-cafe
+   73  cp README.md README-backup.md
+   74  mkdir readme
+   75  cp README.md README-backup.md
+   76  mkdir README
+   77  cp README.md README-backup.md
+   78  mkdir README
+   79  cp README.md README-backup.md
+   80  mkdir README.md
+   81  cp README.md README-backup.md
+   82  mv README-backup.md week01/
+   83  cd week01
+   84  cd week1
+   85  cp README.md README-backup.md
+   86  mkdir README.md
+   87  cp README.md README-backup.md
+   88  mv README-backup.md week01/
+   89  cd ..
+   90  echo $PATH
+   91  which python3
+   92  pyton3
+   93  cd ~/Coding-cafe
+   94  python3 -m venv .venv
+   95  ls
+   96  ls -a
+   97  source .venv/bin/activate
+   98  source .venv\Scripts\Activate.ps1
+   99  .venv\Scripts\Activate.ps1
+  100  source .venv\Scripts\Activate.ps1
+  101  ls -la
+  102  source .venv/bin/activate
+  103  rm -rf .venv
+  104  python3 -m venv .venv
+  105  source .venv/bin/activate
+  106  sudo apt update && sudo apt install python3.14-venv -y
+  107  python3 -m venv .venv
+  108  source .venv/bin/activate
+  109  which python3
+  110  pip list
+  111  pip install requests
+  112  pip list
+  113  deactivate
+  114  which python3
+  115  man ls
+  116  ls -h
+  117  ls- l
+  118  ls- la
+  119  ls a
+  120  ls -a
+  121  ls
+  122  cd cod
+  123  history > week02/lab01-log.txt
+  124  history > week2/lab01-log.txt
